@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"./pg.jar;md5;6e1d87747bd75b4084892cb5330e6c1d",
 	"sites":[
 		{
 			"key": "豆瓣",
