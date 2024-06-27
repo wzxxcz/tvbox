@@ -3,8 +3,8 @@
 	"sites":[
 	
 		{
-			"key": "豆瓣(公众号杰歌软件APP)",
-			"name": "豆瓣",
+			"key": "豆瓣",
+			"name": "豆瓣(公众号杰歌软件APP)",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
