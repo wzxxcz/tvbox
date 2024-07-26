@@ -519,12 +519,12 @@
         },
 		{
 			"key": "應用商店",
-			"name": "公众号【盒子迷】发送：春盈天下，下载4.0",
+			"name": "應用商店",
 			"type": 3,
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "http://120.24.204.74:1888/?explorer/share/file&hash=e656BKzweY-qRk9BhnwbIJmn4nqS_h0-jOP1QRqpPm3XEtIOUdNgu51MP0m9w8A496E&name=/%E7%94%B5%E8%A7%86.json"
+			"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"
 		},
 		        {
             "key": "空白",
