@@ -10,7 +10,7 @@
 
 {
 "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb",//猫
-"spider": "./danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0",
+//"spider": "./danmu.jar;md5;7b83c871a42078c5216a8dd2065691c0",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
 //===========================================================================
 "sites":[
