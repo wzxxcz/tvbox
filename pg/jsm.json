@@ -1,9 +1,9 @@
 {
-	"spider":"./pg.jar;md5;8c737514ec23faff7ec2d262cfb0e965",
+	"spider":"./pg.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
-			"name": "豆瓣(公众号杰歌软件APP)",
+			"name": "豆瓣{公众号杰歌软件APP}",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -136,7 +136,12 @@
 		},
 		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
 		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
-		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
+		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$noproxy$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
 		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
 			"style": {
 				"type": "list",
@@ -170,6 +175,7 @@
 			"timeout":60,
 			"ext": "./lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
+		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"混合盘","name":"混合盘|网盘搜索","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json",
