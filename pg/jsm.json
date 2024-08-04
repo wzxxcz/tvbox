@@ -1,5 +1,5 @@
 {
-	"spider":"./pg.jar",
+	"spider":"https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/pg.jar;md5;d33f4e4bd4fa3e9a119c1b6317e62af6",
 	"sites":[
 		{
 			"key": "豆瓣",
