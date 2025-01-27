@@ -11,6 +11,10 @@
 			"indexs":1,
 			"ext": "https://wget.la/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/lib/tokenm.json$$$https://wget.la/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/lib/douban.json"
 		},
+		{"key":"csp_woog","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"'.$config['ou'].'","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw0c.news","http://woog.nxog.asia","https://1.woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":450,"threads":12}}},
+{"key":"csp_UCog","name":"🐲欧歌┃u夕弹幕","type":3,"searchable":1,"changeable":0,"api":"csp_woog","filterable":1,"jar":"'.$config['ou'].'","ext":{"site_urls":["https://wooguc.nxog.eu.org","http://wooguc.nxog.asia","https://wooguc.xn--dkw.xn--6qq986b3xl"],"url_key":"UCog","token":"","ucCookie":"","quarkCookie":"","threadinfo":{"chunksize":450,"threads":12}}},
+{"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw0c.news","http://woog.nxog.asia","https://1.woog.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf&ou=公众号欧歌app;md5;2d68907e16b4a9809ca25071c739245c"},
 		{
 			"key":"Youtube",
 			"name":"Youtube",
