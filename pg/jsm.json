@@ -1,5 +1,5 @@
 {
-    "spider":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/pg.jar;md5;5d0f66944e1f87068506eac1ea6abe08",
+    "spider":"https://wget.la/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/pg.jar;md5;5d0f66944e1f87068506eac1ea6abe08",
 	"sites":[
 		{
 			"key": "豆瓣",
