@@ -45,8 +45,8 @@
   ],
   "sites": [
     {
-      "key": "Tg | 豆瓣",
-      "name": "Tg | 豆瓣",
+      "key": "Tg |",
+      "name": " 豆瓣| 非会员uc需要扫两个码",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
