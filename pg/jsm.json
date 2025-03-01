@@ -64,6 +64,13 @@
 				"ratio": 1.5
 			}
 		},
+		{"key":"csp_woog","name":"欧歌┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=公众号欧歌app;md5;d13000ce089d8dca65cf9eaa99a8f0fe","ext":{"site_urls":["https://woog.nxog.eu.org"]}},
+
+{"key":"欧歌js","name":"欧歌┃u汐4k","type":3,"api":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/js/4k.min.js","ext":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/js/oguc4k.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key":"csp_woog2","name":"欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.nxog.eu.org"]}},
+
+{"key":"csp_欧歌G","name":"欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf&ou=公众号欧歌app;md5;2d68907e16b4a9809ca25071c739245c","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://wget.la/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/lib/tokenm.json$$$https://wget.la/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/lib/pushshare.txt$$$db$$$1",
 			"style": {
