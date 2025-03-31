@@ -1,6 +1,10 @@
 {
     "SiteUrl": "https://woog.nxog.eu.org",
-    "Domains": [],
+    "Domains": [ 
+        "https://woog.xn--dkw.xn--6qq986b3xl",
+        "https://woog.nxog.eu.org",
+    
+    ],
     "SiteWord": "og",
     "SiteName": "欧歌",
     "Classes": [
