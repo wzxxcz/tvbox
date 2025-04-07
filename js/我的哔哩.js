@@ -373,7 +373,7 @@ var rule = {
                 title + '$' + aaid + '_' + ccid
             )
         });
-        treeMap['欧歌推荐'] = playurls.join('#');
+        treeMap['小橙子推荐'] = playurls.join('#');
         vod.vod_play_from = Object.keys(treeMap).join("$$$");
         vod.vod_play_url = Object.values(treeMap).join("$$$");
         VOD = vod;
