@@ -1,6 +1,6 @@
 # coding=utf-8
 # !/usr/bin/python
-# by嗷呜(finally)
+# by小橙子(finally)
 import sys
 import os
 sys.path.append("..")
