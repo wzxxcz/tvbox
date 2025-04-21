@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# by @嗷呜
+# by @小橙子
 import sys
 from urllib.parse import urlparse
 sys.path.append("..")
